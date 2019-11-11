@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BaseCalculator"
         mc:Ignorable="d"
-       Title="Calculator" Height="525" Width="350"        
-        Background="WhiteSmoke">
+       Title="Calculator" Height="500" Width="350"        
+        Background="White">
     <Grid Margin="10">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"/>
